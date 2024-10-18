@@ -7,7 +7,7 @@
 
 <!-- Social media badges -->
 <div id="badges">
-  <a href="https://www.linkedin.com/in/petar-cholakov-a8458b250/" taget="_blank">
+  <a href="https://www.linkedin.com/in/petar-cholakov-a8458b250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge">
   </a>
 </div>
