@@ -1,6 +1,22 @@
 
-<div id="header" align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9saWt1Ymw0dnQ4enNmNjdic3YwN2M0ZDM5aDk1Y2ZqemllZHBnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qkbm4jGMam7PfdWzHM/giphy.gif" width="300">
+<!-- Profile views 
+<img src="https://komarev.com/ghpvc/?username=fanerotim&style=flat-square&color=blue" alt=""/>
+-->
+
+<!-- About me -->
+
+<div align="center">
+    
+<!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlndmM4aTJ5bXRzNTU5NHQ4bWFmcmsxdHhtbmd6bjR0dW81MG1wbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HbIl8iQYcPl8k/giphy.gif" width="500" height="250">
+    -->
+    
+<!-- ### 👨‍💻 About me : -->
+
+## 👋 Hi, I'm Petar!
+
+I'm a passionate **Junior Developer** with a strong interest in building responsive, user-friendly web applications. I specialize in **JavaScript**, **React.js**, **Node.js**, and **MongoDB**. I'm constantly learning and improving my skills, and I love solving problems through code.
+
+Currently, I'm looking for exciting opportunities as a **Junior Developer** where I can contribute to real-world projects and continue to grow as a developer.
 
 <!-- Social media badges -->
 <div id="badges">
@@ -8,27 +24,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge">
     </a>
 </div>
-
-<!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=fanerotim&style=flat-square&color=blue" alt=""/>
-
-## Hi there 👋
-</div>
-
-<!-- About me -->
-
-<div align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlndmM4aTJ5bXRzNTU5NHQ4bWFmcmsxdHhtbmd6bjR0dW81MG1wbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HbIl8iQYcPl8k/giphy.gif" width="500" height="250">
-
----
-
-### 👨‍💻 About me :
-
-## 👋 Hi, I'm Petar!
-
-I'm a passionate **Junior Developer** with a strong interest in building responsive, user-friendly web applications. I specialize in **JavaScript**, **React.js**, **Node.js**, and **MongoDB**. I'm constantly learning and improving my skills, and I love solving problems through code.
-
-Currently, I'm looking for exciting opportunities as a **Junior Developer** where I can contribute to real-world projects and continue to grow as a developer.
     
 </div>
 
@@ -44,12 +39,23 @@ Currently, I'm looking for exciting opportunities as a **Junior Developer** wher
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-
-    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>    
 </div>
   
 </div>
+
+---
+
+<div align="center">
+    
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fanerotim&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanerotim&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
 
 
 
